@@ -1,0 +1,14 @@
+/Users/artem7k/RiderProjects/HW2/HW2/bin/Debug/net8.0/HW2
+/Users/artem7k/RiderProjects/HW2/HW2/bin/Debug/net8.0/HW2.deps.json
+/Users/artem7k/RiderProjects/HW2/HW2/bin/Debug/net8.0/HW2.runtimeconfig.json
+/Users/artem7k/RiderProjects/HW2/HW2/bin/Debug/net8.0/HW2.dll
+/Users/artem7k/RiderProjects/HW2/HW2/bin/Debug/net8.0/HW2.pdb
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.AssemblyInfoInputs.cache
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.AssemblyInfo.cs
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.csproj.CoreCompileInputs.cache
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.dll
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/refint/HW2.dll
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.pdb
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/HW2.genruntimeconfig.cache
+/Users/artem7k/RiderProjects/HW2/HW2/obj/Debug/net8.0/ref/HW2.dll
