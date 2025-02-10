@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e800afe1_002Db0df_002D49eb_002D8e43_002D6a2e60b4f97e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="MonkeyProperties_ShouldBeSetCorrectly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::74EC63F2-B265-47FB-B33D-4EE8EB4B4AAA::net8.0::ТкачукАС_HW1.Tests.AnimalTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::74EC63F2-B265-47FB-B33D-4EE8EB4B4AAA::net8.0::ТкачукАС_HW1.Tests.ThingTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::74EC63F2-B265-47FB-B33D-4EE8EB4B4AAA::net8.0::ТкачукАС_HW1.Tests.VeterinaryClinicTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::74EC63F2-B265-47FB-B33D-4EE8EB4B4AAA::net8.0::ТкачукАС_HW1.Tests.ZooTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
