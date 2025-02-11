@@ -64,4 +64,30 @@
 
 ## Инструкция по запуску приложения
 
+- **Добавление травоядного животного**  
+  <img width="578" alt="addAnimal" src="https://github.com/user-attachments/assets/90952f78-a81d-4827-9938-db34f07347c7" />
 
+- **Добавление хищного животного**  
+  <img width="445" alt="addWolf" src="https://github.com/user-attachments/assets/05f64dad-cb1a-4f0e-83fc-ca96b7beda91" />
+
+- **Добавление вещи**  
+  <img width="474" alt="addThing" src="https://github.com/user-attachments/assets/7442682e-418f-442a-912a-864fbe700a5b" />
+
+- **Список всех животных в зоопарке**  
+  <img width="462" alt="animalsList" src="https://github.com/user-attachments/assets/6ec53f25-6f28-4f21-9549-b458150ade90" />
+
+- **Общее потребление еды**  
+  <img width="444" alt="eda" src="https://github.com/user-attachments/assets/9c673aa5-f1da-414c-a264-05e6ddb0f41e" />
+
+- **Список животных для контактного зоопарка**  
+  <img width="514" alt="Herb" src="https://github.com/user-attachments/assets/227ff6eb-c091-4089-8b1e-3fd34ce17e24" />
+  
+- **Список инвентаризационных объектов**   
+  <img width="437" alt="Things" src="https://github.com/user-attachments/assets/dc5e42ad-7d59-4a16-bf89-45489feee7cf" />
+
+- **Выход**  
+  <img width="438" alt="exit" src="https://github.com/user-attachments/assets/c35fadc4-67bd-4e0d-88f2-2d2ccd396a5f" />
+
+## Тестирования  
+
+<img width="465" alt="tests" src="https://github.com/user-attachments/assets/5a454ce3-5b80-4768-a321-4a58ecde3031" />
