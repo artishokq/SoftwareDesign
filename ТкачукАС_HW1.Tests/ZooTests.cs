@@ -7,6 +7,9 @@ using ТкачукАС_HW1.Things;
 
 namespace ТкачукАС_HW1.Tests
 {
+    /// <summary>
+    /// Тестирование зоопарка
+    /// </summary>
     public class ZooTests
     {
         [Fact]

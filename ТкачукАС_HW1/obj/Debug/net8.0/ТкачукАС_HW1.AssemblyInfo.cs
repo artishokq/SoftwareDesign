@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ТкачукАС_HW1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57666546c42b5140f55bf600c1768608800fb7c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b3a21161ca00219c27d726eb438b448d0851da5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ТкачукАС_HW1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ТкачукАС_HW1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

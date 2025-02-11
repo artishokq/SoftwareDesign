@@ -5,6 +5,9 @@ using ТкачукАС_HW1.Models;
 
 namespace ТкачукАС_HW1.Tests
 {
+    /// <summary>
+    /// Тестирование ветеринарной клиники
+    /// </summary>
     public class VeterinaryClinicTests
     {
         [Fact]

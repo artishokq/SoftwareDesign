@@ -16,3 +16,4 @@
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1/obj/Debug/net8.0/ТкачукАС_HW1.pdb
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1/obj/Debug/net8.0/ТкачукАС_HW1.genruntimeconfig.cache
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1/obj/Debug/net8.0/ref/ТкачукАС_HW1.dll
+/Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1/obj/Debug/net8.0/ТкачукАС_HW1.sourcelink.json

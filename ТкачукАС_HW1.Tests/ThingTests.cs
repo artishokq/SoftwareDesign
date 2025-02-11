@@ -3,6 +3,9 @@ using ТкачукАС_HW1.Things;
 
 namespace ТкачукАС_HW1.Tests
 {
+    /// <summary>
+    /// Тестирование вещей
+    /// </summary>
     public class ThingTests
     {
         [Fact]

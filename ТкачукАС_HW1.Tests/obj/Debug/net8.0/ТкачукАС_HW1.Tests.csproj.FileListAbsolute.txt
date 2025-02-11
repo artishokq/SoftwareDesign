@@ -100,3 +100,4 @@
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1.Tests/obj/Debug/net8.0/ТкачукАС_HW1.Tests.pdb
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1.Tests/obj/Debug/net8.0/ТкачукАС_HW1.Tests.genruntimeconfig.cache
 /Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1.Tests/obj/Debug/net8.0/ref/ТкачукАС_HW1.Tests.dll
+/Users/artem7k/RiderProjects/ТкачукАС_HW1/ТкачукАС_HW1.Tests/obj/Debug/net8.0/ТкачукАС_HW1.Tests.sourcelink.json
