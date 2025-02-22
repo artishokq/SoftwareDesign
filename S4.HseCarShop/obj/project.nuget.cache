@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cJxqndn3Ww0=",
+  "success": true,
+  "projectFilePath": "/Users/artem7k/RiderProjects/HW4/S4.HseCarShop/S4.HseCarShop.csproj",
+  "expectedPackageFiles": [
+    "/Users/artem7k/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.1/microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "/Users/artem7k/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.1/microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
