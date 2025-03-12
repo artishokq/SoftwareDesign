@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/Users/artem7k/Library/Caches/JetBrains/Rider2024.3/resharper-host/temp/Rider/vAny/CoverageData/_ТкачукАС_КР1.-1697367928/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1f0fe78_002D4ef2_002D4a58_002D83a4_002Db5777bdd8262/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AnalyticsTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.AnalyticsTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.BankAccountTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.CommandTimerDecoratorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.OperationTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.CommandsTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.DataAccessTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.DataImportExportTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::99C3E1FE-1273-4A0D-A25C-98C913BF253C::net9.0::Tests.FacadesTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
