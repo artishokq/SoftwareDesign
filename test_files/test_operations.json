@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "Income",
+    "BankAccountId": "11111111-1111-1111-1111-111111111111",
+    "Amount": 1000.00,
+    "Date": "2023-03-15T12:00:00Z",
+    "CategoryId": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "Description": "Salary March"
+  },
+  {
+    "Type": "Expense",
+    "BankAccountId": "11111111-1111-1111-1111-111111111111",
+    "Amount": 200.50,
+    "Date": "2023-03-16T15:30:00Z",
+    "CategoryId": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "Description": "Grocery shopping"
+  },
+  {
+    "Type": "Expense",
+    "BankAccountId": "22222222-2222-2222-2222-222222222222",
+    "Amount": 50.75,
+    "Date": "2023-03-17T09:15:00Z",
+    "CategoryId": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "Description": "Transport fare"
+  }
+]

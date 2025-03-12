@@ -1,0 +1,6 @@
+- id: "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa"
+  name: "Salary"
+  type: "Income"
+- id: "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb"
+  name: "Food"
+  type: "Expense"
