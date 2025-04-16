@@ -1,0 +1,6 @@
+@MiniHW-2_HostAddress = https://localhost:5000
+
+GET {{MiniHW-2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
