@@ -1,4 +1,5 @@
 using FileStoringService.Controllers;
+using FileStoringService.Models;
 using Microsoft.AspNetCore.Http;
 
 namespace FileStoringService.Services;
@@ -61,10 +62,3 @@ public class FileStorageService
         return _metadata.TryGetValue(id, out metadata!);
     }
 }
-
-public record FileMetadata(
-    Guid   FileId,
-    string FileName,
-    long   Size,
-    DateTime UploadedAt
-);
